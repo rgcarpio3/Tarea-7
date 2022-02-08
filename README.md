@@ -398,3 +398,15 @@ Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el
 ##  4) Conclusiones
 
 •	Un inductor guarda energía en su campo magnético cuando a través de él fluye corriente.
+
+•	Los ejercicios propuestos en el libro son útiles para poder realizar prácticas de laboratorio, ya que se considera que los componentes  pueden ser o no pueden ser ideales.
+
+## 5) Recomendaciones
+
+•	Tomar en cuenta todos los parámetros de un inductor, ya sean parámetros físicos o eléctricos, ya que de todos estos dependen las cantidades a calcular dentro de un circuito.
+
+•	Se debe considerar siempre que un alambre no es ideal, por lo que siempre existirá una resistencia y una capacitancia parásita dentro de un inductor, por lo que estas cantidades variarán en cierta a la medición de los datos calculados  en un sistema ideal
+
+## 6) Video
+
+https://www.youtube.com/watch?v=5xDTrfoXY9Y
