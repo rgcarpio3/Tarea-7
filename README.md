@@ -8,6 +8,9 @@
 -
 
 ## 2) Marco Teórico
+
+#### Resumen
+
 INDUCTORES
 
 ![resumen1](https://user-images.githubusercontent.com/99141342/152900554-f4f8ee14-e9d7-4012-89da-e0607be9e2cb.png)
@@ -88,6 +91,11 @@ Algunas fórmulas para el transformador
 
 
 ![resumen9](https://user-images.githubusercontent.com/99141342/152900998-5d14b471-5da9-49fd-a317-5fe68b7afaea.png)
+
+### MAPA CONCEPTUAL
+
+
+![MAPA](https://user-images.githubusercontent.com/99141342/152903131-4656a0a0-ed75-414e-b5a8-01b80f69b3c3.jpg)
 
 
 ## 3) Explicación y resolución de ejercicios
