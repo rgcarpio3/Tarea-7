@@ -100,6 +100,31 @@ Algunas fórmulas para el transformador
 
 ## 3) Explicación y resolución de ejercicios
 
+25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?
+
+![FIGURA 1](https://user-images.githubusercontent.com/99141342/152904702-c8b68ecc-0b63-4224-a7c8-73cf899afe43.PNG)
+
+![FIGURA 2](https://user-images.githubusercontent.com/99141342/152904716-a40ec62c-2581-4030-a7af-f5f8fc2bd823.PNG)
+
+27. Determine la constante de tiempo para el circuito de la figura 13-50.
+
+![FIGURA 3](https://user-images.githubusercontent.com/99141342/152904758-7f0ab640-edad-412f-95c0-7e9d9383819f.PNG)
+
+![FIGURA 4](https://user-images.githubusercontent.com/99141342/152904766-66157791-1062-478c-8d41-0ca168051c7e.PNG)
+
+*29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre
+¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?
+
+![FIGURA 5](https://user-images.githubusercontent.com/99141342/152904833-2965725a-5cfe-4a54-9993-a283441744e6.PNG)
+
+31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia
+de 400 Hz.
+
+
+
+
+
+
 11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
 0.1= volts primarios / 6v
