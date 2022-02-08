@@ -394,19 +394,19 @@ R=34.5
 
 Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible.
 
+## 4) Video
 
-##  4) Conclusiones
+https://www.youtube.com/watch?v=5xDTrfoXY9Y
+
+
+##  5) Conclusiones
 
 •	Un inductor guarda energía en su campo magnético cuando a través de él fluye corriente.
 
 •	Los ejercicios propuestos en el libro son útiles para poder realizar prácticas de laboratorio, ya que se considera que los componentes  pueden ser o no pueden ser ideales.
 
-## 5) Recomendaciones
+## 6) Bibliografía
 
-•	Tomar en cuenta todos los parámetros de un inductor, ya sean parámetros físicos o eléctricos, ya que de todos estos dependen las cantidades a calcular dentro de un circuito.
+•	Floyd, T. (2007). Inductores. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 525-562). Pearson Educación.
 
-•	Se debe considerar siempre que un alambre no es ideal, por lo que siempre existirá una resistencia y una capacitancia parásita dentro de un inductor, por lo que estas cantidades variarán en cierta a la medición de los datos calculados  en un sistema ideal
-
-## 6) Video
-
-https://www.youtube.com/watch?v=5xDTrfoXY9Y
+•	Floyd, T. (2007). Transformadores. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 563-599). Pearson Educación.
