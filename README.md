@@ -109,7 +109,8 @@ volts primarios = 60 V
 13. Determine las lecturas de medidor no especificadas en la figura 14-44
 
 
-![SANTIAGO FIGURA 1](https://user-images.githubusercontent.com/99141342/152903302-3bb16f0e-3e82-41fe-ad1f-b8e05a3ad784.png)
+![imagen1](https://user-images.githubusercontent.com/99141342/152904118-fddf798d-b817-4fc7-8331-6898e38d4596.png)
+
 
 a)	Vs=100v/10
 Vs=10V
@@ -120,7 +121,8 @@ Vp=240V
 
 15. Determine las siguientes cantidades en la figura 14-46. 
 
-![SANTIAGO FIGURA 2](https://user-images.githubusercontent.com/99141342/152903418-e3a98c3b-5c9a-44fa-b9ae-440a0362b16f.png)
+![imagen2](https://user-images.githubusercontent.com/99141342/152904182-27dbd0d0-b5d4-4f60-adf1-9649fc2bb844.png)
+
 
 (a) Corriente primaria 
 Ipr/Ise=n 
@@ -142,7 +144,7 @@ P= 750 mW
 
 17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario?
 
-![SANTIAGO FIGURA 3](https://user-images.githubusercontent.com/99141342/152903503-8ffd8a83-4e04-4e54-bcf0-ff0417957dcf.png)
+![imagen3](https://user-images.githubusercontent.com/99141342/152904229-d6dec6ba-31c8-4576-a4fe-90f31db144e5.png)
 
 
 N=(Rl/Rp) ^1/2
@@ -151,7 +153,8 @@ N= 1.83
 
 19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ω?
 
-![SANTIAGO FIGURA 4](https://user-images.githubusercontent.com/99141342/152903567-f1447d6c-a823-40ad-9360-4591142bcdbe.png)
+![imagen4](https://user-images.githubusercontent.com/99141342/152904270-0acd1b77-1e8e-4464-851a-3d1f18e3e702.png)
+
 
 Ip = 25/16=1.56A
 Ps = Vp*Ip
@@ -174,7 +177,7 @@ P=25 kVA
 
 27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51
 
-![SANTIAGO FIGURA 5](https://user-images.githubusercontent.com/99141342/152903695-6e32cd22-2918-4a35-8678-0ee966b168b8.png)
+![imagen5](https://user-images.githubusercontent.com/99141342/152904294-6a34f033-b0d7-4ce7-8e66-cb0d09e8f02e.png)
 
 	
 V1=nVp
@@ -189,7 +192,8 @@ V4=46V
 
 29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53
 
-![SANTIAGO FIGURA 6](https://user-images.githubusercontent.com/99141342/152903829-65e11bea-3234-428f-b438-e5c2a1d30f33.png)
+![imagen6](https://user-images.githubusercontent.com/99141342/152904322-8a1e88a5-44a4-45f4-b404-1a24c366f5f2.png)
+
 
 A)
 (200/500)*120
@@ -200,7 +204,8 @@ B)
 
 31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente: (a) Todos los voltajes y corrientes presentes en la carga (b) La resistencia reflejada en el primario
 
-![SANTIAGO FIGURA 7](https://user-images.githubusercontent.com/99141342/152903921-aaf9bbb7-bbf8-41a2-af20-38e1028abe6a.png)
+![imagen7](https://user-images.githubusercontent.com/99141342/152904347-dfdec482-3b44-4ba4-8807-6b8fa944d8fb.png)
+
 
 Vs/Vp = Ns/Np  => Vs=n*Vp => Vs=(700/1200)*60 = 35v
 VRL=35v
