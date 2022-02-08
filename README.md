@@ -109,7 +109,113 @@ volts primarios = 60 V
 13. Determine las lecturas de medidor no especificadas en la figura 14-44
 
 
+![SANTIAGO FIGURA 1](https://user-images.githubusercontent.com/99141342/152903302-3bb16f0e-3e82-41fe-ad1f-b8e05a3ad784.png)
 
+a)	Vs=100v/10
+Vs=10V
+
+b)	Vp=Vs*nv
+Vp=12v*20
+Vp=240V
+
+15. Determine las siguientes cantidades en la figura 14-46. 
+
+![SANTIAGO FIGURA 2](https://user-images.githubusercontent.com/99141342/152903418-e3a98c3b-5c9a-44fa-b9ae-440a0362b16f.png)
+
+(a) Corriente primaria 
+Ipr/Ise=n 
+Ipr=(1/2)*50mA
+Ipr = 25 mA
+(b) Corriente secundaria 
+Isec=(1/n)*Iri
+Isec=(2)* 25 mA
+Isec=50 mA
+(c) Voltaje secundario 
+Vse/Vpr=Nse/Np
+Vse=(Nse/Np)*Vpr
+Vse=(1/2)*30
+Vse 15 V
+(d) Potencia en la carga
+P=V*I
+P= 30 * 25mA
+P= 750 mW
+
+17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario?
+
+![SANTIAGO FIGURA 3](https://user-images.githubusercontent.com/99141342/152903503-8ffd8a83-4e04-4e54-bcf0-ff0417957dcf.png)
+
+
+N=(Rl/Rp) ^1/2
+N=(1kΩ/300Ω) ^1/2
+N= 1.83 
+
+19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ω?
+
+![SANTIAGO FIGURA 4](https://user-images.githubusercontent.com/99141342/152903567-f1447d6c-a823-40ad-9360-4591142bcdbe.png)
+
+Ip = 25/16=1.56A
+Ps = Vp*Ip
+Ps=25V*1.56A
+Ps=39/4Ω
+Ps=9.76 W
+
+21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+Ps=100w-5.5w
+Ps=94.5 W
+
+23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+100%-2%
+0.98
+
+25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?
+P=V*I
+P=10 * 2.5
+P=25 kVA
+
+27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51
+
+![SANTIAGO FIGURA 5](https://user-images.githubusercontent.com/99141342/152903695-6e32cd22-2918-4a35-8678-0ee966b168b8.png)
+
+	
+V1=nVp
+V1= (50/500) *115
+V1=11.5V
+V2= (100/500) *115
+V2=23V
+V3= (100/ 500) *115
+V3=23V
+V4= (200/500) *115
+V4=46V
+
+29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53
+
+![SANTIAGO FIGURA 6](https://user-images.githubusercontent.com/99141342/152903829-65e11bea-3234-428f-b438-e5c2a1d30f33.png)
+
+A)
+(200/500)*120
+48v
+B)
+(250/50)*5
+25V
+
+31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente: (a) Todos los voltajes y corrientes presentes en la carga (b) La resistencia reflejada en el primario
+
+![SANTIAGO FIGURA 7](https://user-images.githubusercontent.com/99141342/152903921-aaf9bbb7-bbf8-41a2-af20-38e1028abe6a.png)
+
+Vs/Vp = Ns/Np  => Vs=n*Vp => Vs=(700/1200)*60 = 35v
+VRL=35v
+I=V/R = 35/12 = 2.91A
+IRL=2,92A
+Vc=n*Vp => Vs=(300/1200)*60 = 15v
+Vc=15v
+Ic=15/10
+Ic=1.5A
+Rp=(1/n)^2*Rl
+Pp = (1/0.58)^2*12
+R=34.5
+
+33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible.
 
 
 
