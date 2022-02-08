@@ -1,11 +1,13 @@
 # Tarea-7
 ## 1) Objetivos
 ### 1.1) Objetivo General
--
+•	Conocer y realizar ejercicios de inductores y transformadores mediante la utilización del libro de Floyd para el desarrollo de ejercicios aplicados.
+
 ### 1.2) Objetivos específicos
--
--
--
+•	Resumir los capítulos trece y catorce del libro de Floyd, para el estudio de los temas relacionados a inductores.
+•	Aplicar los conocimientos aprendidos de los capítulos analizados para practicas de laboratorio y ejercicios mediante cálculos.
+•	Analizar el contenido de dinámica de circuitos para la resolución de ejercicios, que contengan diversas magnitudes para el control de circuitos.
+
 
 ## 2) Marco Teórico
 
