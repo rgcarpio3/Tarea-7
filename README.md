@@ -220,6 +220,7 @@ Pp = (1/0.58)^2*12
 R=34.5
 
 33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
 Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible.
 
 
