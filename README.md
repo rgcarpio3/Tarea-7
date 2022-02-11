@@ -401,9 +401,9 @@ https://www.youtube.com/watch?v=5xDTrfoXY9Y
 
 ##  5) Conclusiones
 
-•	Un inductor guarda energía en su campo magnético cuando a través de él fluye corriente.
+- Un inductor guarda energía en su campo magnético cuando a través de él fluye corriente
 
-•	Los ejercicios propuestos en el libro son útiles para poder realizar prácticas de laboratorio, ya que se considera que los componentes  pueden ser o no pueden ser ideales.
+- Los ejercicios propuestos en el libro son útiles para poder realizar prácticas de laboratorio, ya que se considera que los componentes  pueden ser o no pueden ser ideales.
 
 - La interacción entre inductores da lugar a los transformadores, que producen un campo electromagnético útil para determinar diferentes características existentes entre  inductores, como son voltaje y corriente.
 
