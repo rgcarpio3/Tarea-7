@@ -405,6 +405,8 @@ https://www.youtube.com/watch?v=5xDTrfoXY9Y
 
 •	Los ejercicios propuestos en el libro son útiles para poder realizar prácticas de laboratorio, ya que se considera que los componentes  pueden ser o no pueden ser ideales.
 
+- La interacción entre inductores da lugar a los transformadores, que producen un campo electromagnético útil para determinar diferentes características existentes entre  inductores, como son voltaje y corriente.
+
 ## 6) Bibliografía
 
 •	Floyd, T. (2007). Inductores. En LM Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 525-562). Pearson Educación.
